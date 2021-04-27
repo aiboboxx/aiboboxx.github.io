@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-04-27T06:32:21.793Z</updated>
+    <updated>2021-04-27T08:10:18.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
     <logo>https://www.aiboboxx.ml/images/avatar.png</logo>
     <icon>https://www.aiboboxx.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, 爱波波的XX</rights>
+    <entry>
+        <title type="html"><![CDATA[v2ray订阅地址使用说明]]></title>
+        <id>https://www.aiboboxx.ml/post/v2ray-ding-yue-di-zhi-shi-yong-shuo-ming/</id>
+        <link href="https://www.aiboboxx.ml/post/v2ray-ding-yue-di-zhi-shi-yong-shuo-ming/">
+        </link>
+        <updated>2021-04-27T08:00:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="获取软件">获取软件</h2>
+<ul>
+<li>打开页面 https://github.com/2dust/v2rayN/releases 下载最新版软件 如图</li>
+<li>或者直接点击 https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN-Core.zip 下载 3.5版本</li>
+<li>解压缩 后，运行 v2rayN.exe 文件<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/1.png" alt="img" loading="lazy"></li>
+<li>由于v2rayN没有任何签名， 会弹出是否运行此文件，点击 更多信息<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/2.png" alt="img" loading="lazy"></li>
+<li>点击仍要运行<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/3.png" alt="img" loading="lazy"></li>
+<li>打开软件主界面<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/4.png" alt="img" loading="lazy"></li>
+</ul>
+<h2 id="用订阅的方式获取节点">用订阅的方式获取节点</h2>
+<ul>
+<li>软件主界面 订阅 - 订阅设置<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/5.png" alt="img" loading="lazy"></li>
+<li>点击添加<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/6.png" alt="img" loading="lazy"></li>
+<li>在 软件 - 订阅设置 - 地址处粘贴 v2ray订阅地址 ， 备注可以任意填写 点击确定<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/8.png" alt="img" loading="lazy"></li>
+<li>在 软件界面 - 订阅 - 更新订阅 ，来获取节点<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/9.png" alt="img" loading="lazy"></li>
+</ul>
+<h2 id="通过节点代理上网">通过节点代理上网</h2>
+<ul>
+<li>在 软件界面 查看所有的节点<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/10.png" alt="img" loading="lazy"></li>
+<li>选择任意节点 右键点击 设为活动的服务器<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/11.png" alt="img" loading="lazy"></li>
+<li>右键点击 桌面-任务栏右下角 v2rayN软件图标 - HTTP代理 - 全局代理<br>
+<img src="https://v2.freeok.xyz/images/v2ray_win/12.png" alt="img" loading="lazy"></li>
+<li>然后愉快的上网吧</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私人专属 v2ray 订阅地址自助获取]]></title>
         <id>https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/</id>
