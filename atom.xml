@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.aiboboxx.ml</id>
+    <title>爱波波的XX</title>
+    <updated>2021-04-27T06:02:10.031Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.aiboboxx.ml"/>
+    <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
+    <logo>https://www.aiboboxx.ml/images/avatar.png</logo>
+    <icon>https://www.aiboboxx.ml/favicon.ico</icon>
+    <rights>All rights reserved 2021, 爱波波的XX</rights>
+    <entry>
+        <title type="html"><![CDATA[私人专属 v2ray 订阅地址自助获取]]></title>
+        <id>https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/</id>
+        <link href="https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/">
+        </link>
+        <updated>2021-04-04T14:07:35.000Z</updated>
+        <content type="html"><![CDATA[<h5 id="特别说明"><strong>特别说明：</strong></h5>
+<p>每个订阅地址限制一个客户端使用，长期有效</p>
+<p>以下情况将被封禁：</p>
+<p>1、长期未使用。</p>
+<p>2、订阅请求来源异常，疑似账号泄露。</p>
+<p>3、流量异常。</p>
+<p>4、ip数异常。</p>
+<h5 id="获取流程"><strong>获取流程：</strong></h5>
+<p>1、点击<a href="https://www.aiboboxx.ml/f/getrss.html">https://www.aiboboxx.ml/f/getrss.html</a>打开自助获取页面。</p>
+<p>2、输入接收邮箱地址，点击确定。</p>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210427100625.png" style="zoom:50%;" />
+<p>3、到接收邮箱中找到验证邮箱邮件。</p>
+<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20210427103154260.png" alt="image-20210427103154260"  />
+<p>4、点击验证邮件中的链接。</p>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210427111915.png" alt="image-20210427111915755" style="zoom:50%;" />
+<p>5、邮箱验证成功后，就会收到包含V2ray订阅地址的邮件。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210427112032.png" alt="image-20210427112032221" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picgo用Github做图床，上传时出现StatusCodeError: 422的原因及解决方法]]></title>
+        <id>https://www.aiboboxx.ml/post/picgo-yong-github-zuo-tu-chuang-shang-chuan-shi-chu-xian-statuscodeerror-422-de-yuan-yin-ji-jie-jue-fang-fa/</id>
+        <link href="https://www.aiboboxx.ml/post/picgo-yong-github-zuo-tu-chuang-shang-chuan-shi-chu-xian-statuscodeerror-422-de-yuan-yin-ji-jie-jue-fang-fa/">
+        </link>
+        <updated>2021-01-02T12:16:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>Picgo用Github做图床，上传时出现StatusCodeError: 422的原因及解决方法</p>
+<p>本博在搭建的过程中，通用Picgo用Github做图床。在使用的过程中Picgo出现StatusCodeError: 422错误，无法上传图片。通过google得知时以下原因造成的：</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Picgo用Github做图床，上传时出现StatusCodeError: 422的原因及解决方法</p>
+<p>本博在搭建的过程中，通用Picgo用Github做图床。在使用的过程中Picgo出现StatusCodeError: 422错误，无法上传图片。通过google得知时以下原因造成的：</p>
+<!-- more -->
+<p><strong>PicGo目前不支持在github上上传同名文件，上传同名文件就会报错，即使是两张不同的图片</strong>。</p>
+<p>解决方法也很简单，Picgo开启上传时重命名和时间戳重命名就可解决。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210111161054.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[删除我的电脑中的各种云盘图标(WPS云、微盘云...)]]></title>
+        <id>https://www.aiboboxx.ml/post/shan-chu-wo-de-dian-nao-zhong-de-ge-chong-yun-pan-tu-biao-wps-yun-wei-pan-yun/</id>
+        <link href="https://www.aiboboxx.ml/post/shan-chu-wo-de-dian-nao-zhong-de-ge-chong-yun-pan-tu-biao-wps-yun-wei-pan-yun/">
+        </link>
+        <updated>2021-01-02T04:24:29.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>1、进入注册表:<br>
+1HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace<br>
+2、删除该目录下所有子项<br>
+3、刷新我的电脑</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win10自动登录到用户帐户最新方法]]></title>
+        <id>https://www.aiboboxx.ml/post/win10-zi-dong-deng-lu-dao-yong-hu-zhang-hu-zui-xin-fang-fa/</id>
+        <link href="https://www.aiboboxx.ml/post/win10-zi-dong-deng-lu-dao-yong-hu-zhang-hu-zui-xin-fang-fa/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>如何在Win10版本2004'20H1'中自动登录到用户帐户？从Win10版本2004(也以其代码名称'20H1'已知)开始，Microsoft更改了用户自动登录功能的默认行为。现在，如果您启用了任何Windows Hello安全选项，则将无法自动登录用户帐户。为此我们给你带来简单的Win10版本2004中自动登录到用户帐户方法，轻松快速的解决问题，体验到舒适的系统玩法操作。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>如何在Win10版本2004'20H1'中自动登录到用户帐户？从Win10版本2004(也以其代码名称'20H1'已知)开始，Microsoft更改了用户自动登录功能的默认行为。现在，如果您启用了任何Windows Hello安全选项，则将无法自动登录用户帐户。为此我们给你带来简单的Win10版本2004中自动登录到用户帐户方法，轻松快速的解决问题，体验到舒适的系统玩法操作。</p>
+<!-- more -->
+<p>从Win10内部版本19033开始，如果您设置PIN或其他Windows Hello安全功能，则Win10将隐藏用户必须输入用户名和密码才能使用经典PC的选项control userpasswords2。请参见以下屏幕截图：</p>
+<figure data-type="image" tabindex="1"><img src="https://www.win10gw.com/d/file/p/2020/04-29/fa3443a4431ca83f3ab7ee44d2a46dcc.png" alt="在Windows 10 2004中控制UserPassword2" loading="lazy"></figure>
+<p>感谢我们的网友“ Birkuli”，我们现在知道它是操作系统的新默认行为。因此，这是使其自动登录的方法。</p>
+<h3 id="要在win10版本2004中自动登录到用户帐户">要在Win10版本2004中自动登录到用户帐户，</h3>
+<p>1、打开设置。</p>
+<p>2、转到帐户&gt;登录选项。</p>
+<p>3、关闭右侧的Windows Hello选项。</p>
+<figure data-type="image" tabindex="2"><img src="https://www.win10gw.com/d/file/p/2020/04-29/433e83acaea806d1669b42e9135a5654.png" alt="Windows 10禁用Windows Hello" loading="lazy"></figure>
+<p>4、按键盘上的Win+R键。运行对话框将出现在屏幕上。在“运行”框中输入以下命令：(netplwiz或control userpasswords2)。</p>
+<figure data-type="image" tabindex="3"><img src="https://www.win10gw.com/d/file/p/2020/04-29/b0e74bd47917a9328b8014abf6f494b5.png" alt="Netplwiz" loading="lazy"></figure>
+<!-- more -->
+<p>5、找到您的用户帐户，然后在列表中选择它。您应该看到上面提到的复选框：</p>
+<figure data-type="image" tabindex="4"><img src="https://www.win10gw.com/d/file/p/2020/04-29/6630334564b2adb8286dbb9cf4072a4e.png" alt="Windows 10版本2004自动登录" loading="lazy"></figure>
+<p>6、关闭用户必须输入用户名和密码才能使用此PC，然后单击“应用”按钮。</p>
+<figure data-type="image" tabindex="5"><img src="https://www.win10gw.com/d/file/p/2020/04-29/a9dad626a540fe002336771068bb28c3.png" alt="取消选中单击“应用用户帐户”" loading="lazy"></figure>
+<p>7、出现自动登录提示。</p>
+<figure data-type="image" tabindex="6"><img src="https://www.win10gw.com/d/file/p/2020/04-29/d736596f317f846ecbc9d90a7a6e5a61.png" alt="确认自动登录用户帐户" loading="lazy"></figure>
+<p>8、键入两次密码，您就完成了!</p>
+<p>对于本地帐户和Microsoft帐户，此过程相同。</p>
+<p>要恢复默认值，请再次运行netplwiz并打开“用户必须输入用户名和密码才能使用此PC”复选框。下次登录时，将再次要求您输入密码。</p>
+<p>最后，您可以使用其他旧方法。但是，我不建议您使用它。我会解释原因。它在Windows NT的早期版本中可用，但今天不安全。它要求将未加密的密码存储在注册表中，第三方软件和其他用户可以读取该密码!除非您知道自己在做什么，否则不要使用此方法。</p>
+<h3 id="通过旧版注册表调整自动登录到用户帐户">通过旧版注册表调整自动登录到用户帐户</h3>
+<p>1、打开注册表编辑器应用程序。</p>
+<p>2、转到下面的注册表项。</p>
+<p>HKEY_LOCAL_MACHINE \ SOFTWARE \ Microsoft \ Windows NT \ CurrentVersion \ Winlogon</p>
+<figure data-type="image" tabindex="7"><img src="https://www.win10gw.com/d/file/p/2020/04-29/b28dcfeb9d03b598b0460c3841c2d459.png" alt="Winlogon新字符串值" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://www.win10gw.com/d/file/p/2020/04-29/9157278212e99aafb9a7d3050058542a.png" alt="èªå¨ç®¡çç»å½" loading="lazy"></figure>
+<p>3、在右侧，修改或创建一个新的字符串(REG_SZ)值“AutoAdminLogon”。设置为1。</p>
+<figure data-type="image" tabindex="9"><img src="https://www.win10gw.com/d/file/p/2020/04-29/081ededb38b2deb5dc1cc3e80f3664a2.png" alt="DefaultUserName" loading="lazy"></figure>
+<p>4、创建或修改新的字符串值“ DefaultUserName”，然后键入用于自动登录的用户名。</p>
+<figure data-type="image" tabindex="10"><img src="https://www.win10gw.com/d/file/p/2020/04-29/081ededb38b2deb5dc1cc3e80f3664a2.png" alt="DefaultUserName" loading="lazy"></figure>
+<p>5、在此处创建一个新的字符串值“DefaultPassword”。输入上一步中的用户帐户密码。</p>
+<figure data-type="image" tabindex="11"><img src="https://www.win10gw.com/d/file/p/2020/04-29/6edf97274b34cf7cc4cca0a728e0472a.png" alt="默认密码" loading="lazy"></figure>
+<p>若要禁用通过此方法启用的自动登录，请删除DefaultPassword值并将AutoAdminLogon设置为0。</p>
+<p>以上就是站长为大家整理的Win10版本2004中自动登录到用户帐户简述。</p>
+]]></content>
+    </entry>
+</feed>

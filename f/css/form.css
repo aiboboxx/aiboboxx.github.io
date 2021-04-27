@@ -1,0 +1,136 @@
+	* { margin: 0; padding: 0; }
+	#contactform {
+	/*width: 500px;*/
+	padding: 20px;
+
+	}
+	
+	.field{margin-bottom:7px;}
+	div.field>p{
+	font-family: Arial, Verdana; 
+	text-shadow: 2px 2px 2px #ccc;
+	font-weight: bold; 
+	margin-right:10px; 
+	text-align: left; 
+	line-height: 25px; 
+	font-size: 15px; 
+	margin-left: 50px;
+	}
+	.msg{
+	font-family: Arial, Verdana; 
+	text-shadow: 2px 2px 2px #ccc;
+	font-weight: bold; 
+	margin-right:10px; 
+	text-align: center; 
+	line-height: 25px; 
+	font-size: 18px; 
+	}
+	label.field{
+	font-family: Arial, Verdana; 
+	text-shadow: 2px 2px 2px #ccc;
+	font-weight: bold; 
+	margin-right:10px; 
+	text-align: right; 
+	width: 100px; 
+	line-height: 25px; 
+	font-size: 15px; 
+	}	
+	.input{
+	font-family: Arial, Verdana; 
+	font-size: 15px; 
+	padding: 5px; 
+	border: 1px solid #b9bdc1; 
+	width: calc(100% - 170px);
+	color: #797979;	
+	}
+	
+	.input:focus{
+	background-color:#E7E8E7;	
+	}
+	
+	.textarea {
+	height:150px;	
+	}
+	
+	.hint{
+	display:none;
+	}
+	
+	.field:hover .hint {  
+	position: absolute;
+	display: block;  
+	margin: -30px 0 0 455px;
+	color: #FFFFFF;
+	padding: 7px 10px;
+	background: rgba(0, 0, 0, 0.6);
+	
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;	
+	}
+	
+	.button{
+	float: right;
+	margin:10px 60px 10px 0;
+	font-weight: bold;
+	line-height: 1;
+	padding: 6px 10px;
+	cursor:pointer;   
+	color: #fff;
+	
+	text-align: center;
+	text-shadow: 0 -1px 1px #64799e;
+	
+	/* Background gradient */
+	background: #a5b8da;
+	background: -moz-linear-gradient(top, #a5b8da 0%, #7089b3 100%);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a5b8da), to(#7089b3));
+	
+	/* Border style */
+  	border: 1px solid #5c6f91;  
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+  
+	/* Box shadow */
+	-moz-box-shadow: inset 0 1px 0 0 #aec3e5;
+	-webkit-box-shadow: inset 0 1px 0 0 #aec3e5;
+	box-shadow: inset 0 1px 0 0 #aec3e5;
+	
+	}
+	
+	.button:hover {
+	background: #848FB2;
+    cursor: pointer;
+	}
+	.box{            
+        display: table;            
+        width: 90%;            
+        margin: 10px  auto;            
+        padding: 10px;                   
+    }        
+    .left,.right{            
+        display: table-cell;                        
+        width: 20%;                          
+    }        
+    .center{            
+        /* padding-top: 10px; */            
+        /* height: 100px;  */                 
+    } 
+
+	.valid{
+    background: url(right.png) no-repeat right;
+    background-size: auto 100%;
+    border: 2px solid green;
+	}
+	label.error{
+		font-family: Arial, Verdana; 
+		text-shadow: 2px 2px 2px #ccc;
+		font-weight: bold; 
+		margin-right:10px; 
+		text-align: right; 
+		line-height: 25px; 
+		font-size: 15px; 
+		color:red;
+		margin-left: 130px;
+	}
