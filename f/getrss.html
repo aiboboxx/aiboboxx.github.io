@@ -148,9 +148,13 @@ $(function(){
                 async : true,
                 data : frm.serialize(),
                 //var data=$("#form1").serializeArray();
+                beforeSend: function() {
+                    // setting a timeout
+                    $("#contactform").remove();
+                    $("#msg").html('正在生成订阅地址，请稍后。。。');
+                 },
                 success : function(data) {
-					console.log(data);
-					$("#contactform").remove();
+					//console.log(data);					
                     $("#msg").html(data);
 					//alert(data);
                 },
