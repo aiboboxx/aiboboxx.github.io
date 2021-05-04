@@ -117,6 +117,18 @@
 	</div>
             </article>
         </div>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
+
+<div id="gitalk-container"><div id="waline"></div></div>
+  <script>
+    new Waline({
+      el: '#waline',
+      path: location.pathname,
+      serverURL: 'https://aiboboxx-ml-waline.vercel.app/',
+    });
+  </script>
 <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="js/jquery.validate.js"></script>
 <script src="js/port.js"></script>
