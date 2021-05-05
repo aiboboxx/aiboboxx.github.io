@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-04T15:07:11.697Z</updated>
+    <updated>2021-05-05T14:39:49.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -62,11 +62,10 @@
 <p>望各位合理使用，且用且珍惜。</p>
 <h5 id="特别提醒"><strong>特别提醒：</strong></h5>
 <p>每个订阅地址限制一个客户端使用，长期有效</p>
-<p>以下情况将被封禁或收回：</p>
-<p>1、超过三天未使用。</p>
+<p>请合理使用，以下情况将被封禁：</p>
+<p>1、获取订阅地址成功后，三小时内未使用。</p>
 <p>2、订阅请求来源异常，疑似账号泄露。</p>
-<p>3、流量异常。</p>
-<p>4、ip数异常。</p>
+<p>3、流量异常，每日使用流量大于6GB。</p>
 <h5 id="获取流程"><strong>获取流程：</strong></h5>
 <p>1、点击<a href="https://www.aiboboxx.ml/f/getrss.html">https://www.aiboboxx.ml/f/getrss.html</a>打开自助获取页面。</p>
 <p>2、输入接收邮箱地址，点击确定。</p>
