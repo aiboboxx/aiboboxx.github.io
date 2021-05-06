@@ -5,7 +5,7 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>获取私人专属 v2ray 订阅地址 | 爱波波的XX</title>
+<title>京东自动签到 | 爱波波的XX</title>
 
 <link rel="shortcut icon" href="https://www.aiboboxx.ml/favicon.ico?v=1618066953144">
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -90,42 +90,94 @@
         <div class="post-detail gt-bg-theme-color-second">
             <article class="gt-post-content">
 			                <h2 class="post-title">
-                    京东自动签到设置 
+                    京东自动签到邮箱验证
                 </h2>
 	<div class="box">        
 		<div class="left">                 
 		</div>        
 		<div class="center">            
-			<div class="msg" id="msg">京东自动签到设置，请稍后。。。</div>
+			<form id="contactform" class="rounded" method="post" action="">
+			<div class="field">
+				<p>
+				友情提示：仅支持以下邮箱
+				qq.com,126.com,163.com,gmail.com
+				</p>
+			</div>
+			<div class="field">
+				<label class="field" for="email">Email:</label>
+				<input type="text" class="input" name="email" id="email" />
+				<input type="hidden" name="action" value="jdsign">
+			</div>
+			<input type="submit" id="Submit"  class="button" value="确定" />
+			</form>   
+			<div class="msg" id="msg"></div>
 		</div>        
 		<div class="right">                   
 		</div>    
 	</div>
             </article>
         </div>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css">
 
+<script src="https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
+
+<div id="gitalk-container"><div id="waline"></div></div>
+  <script>
+    new Waline({
+      el: '#waline',
+      path: location.pathname,
+      serverURL: 'https://aiboboxx-ml-waline.vercel.app/',
+    });
+  </script>
 <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
 <script src="js/port.js"></script>
 <script type="text/javascript">
-var search = window.location.search;
-//console.log(`https://app.aiboboxx.ml:${port}/action.php${search}`);
 $(function(){
+	//console.log(`http://app.aiboboxx.ml:${port}/v.php`);
+    $('#contactform').validate({
+        rules : {
+            email : {
+                    required : true,
+                    email : true
+                    }
+                },          
+        messages : {
+            email : {
+                    required : '请输入接收邮箱！',  
+                    email : '注意！请输入正确的邮箱格式',
+                    }
+                    },  
+		submitHandler:	function() {
+			//var frm=$("#form1").serializeArray();
+            var frm = $("#contactform");
             $.ajax({
-				url : `https://app.aiboboxx.ml:${port}/jdsign_a.php${search}`,
-                type : "GET",
+                //url : frm.attr("action"),
+				url : `https://app.aiboboxx.ml:${port}/jdsign.php`,
+                type : frm.attr("method"),
 				//dataType: "json",
                 async : true,
+                data : frm.serialize(),
+                //var data=$("#form1").serializeArray();
+                beforeSend: function() {
+                    // setting a timeout
+                    $("#contactform").remove();
+                    $("#msg").html('正在验证你的邮箱，请稍后。。。');
+                 },
                 success : function(data) {
-					console.log(data);
+					//console.log(data);					
                     $("#msg").html(data);
 					//alert(data);
                 },
                 error : function(data) {
-                    alert(data);
+                    alert(data.status);
                 }
             });
+			return false;
+			}
+								
+	});
 });
-
 </script>      
 
 <div class="site-footer gt-c-content-color-first">
