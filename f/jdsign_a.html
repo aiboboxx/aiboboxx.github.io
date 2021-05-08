@@ -90,13 +90,39 @@
         <div class="post-detail gt-bg-theme-color-second">
             <article class="gt-post-content">
 			                <h2 class="post-title">
-                    获取私人专属 v2ray 订阅地址 
+                    京东自动签到设置 
                 </h2>
 	<div class="box">        
 		<div class="left">                 
 		</div>        
 		<div class="center">            
-			<div class="msg" id="msg">正在生成订阅地址，请稍后。。。</div>
+			<form id="contactform" class="rounded" method="post" action="">
+			<div class="field">
+				<p>
+				友情提示：仅支持以下邮箱
+				qq.com,126.com,163.com,gmail.com
+				</p>
+			</div>
+			<div class="field">
+				<label class="field" for="email">Email:</label>
+				<input type="text" class="input" readonly="readonly" name="email" id="email" />
+				
+				<input type="hidden" name="vf" id="vf" value="">
+			</div>
+			<div class="field">
+				<label class="field" for="field">Pushkey:</label>
+				<input type="text" class="input" name="pushkey" id="pushkey" />
+				
+			</div>
+
+			<div class="field">
+				<label class="field" for="message">Cookies:</label>
+				<textarea class="input textarea" name="message" id="message"></textarea>
+				
+			</div>
+			<input type="submit" id="Submit"  class="button" value="确定" />
+			</form>   
+			<div class="msg" id="msg"></div>
 		</div>        
 		<div class="right">                   
 		</div>    
@@ -105,18 +131,58 @@
         </div>
 
 <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
 <script src="js/port.js"></script>
 <script type="text/javascript">
 var search = window.location.search;
+function getQueryVariable(variable)
+{
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
 //console.log(`https://app.aiboboxx.ml:${port}/action.php${search}`);
 $(function(){
+    $("#email").val(getQueryVariable('email'));
+    $("#vf").val(getQueryVariable('vf'));
+	//console.log(`http://app.aiboboxx.ml:${port}/v.php`);
+    $('#contactform').validate({
+        rules : {
+            email : {
+                    required : true,
+                    email : true
+                    },
+          pushkey : "required",     
+          message : "required"                                  
+                },          
+        messages : {
+            email : {
+                    required : '请输入接收邮箱！',  
+                    email : '请输入正确的邮箱格式!',
+                    },
+            pushkey: "请输入pushkey!", 
+            message: "请输入cookies!"               
+                    },  
+		submitHandler:	function() {
+			//var frm=$("#form1").serializeArray();
+            var frm = $("#contactform");
             $.ajax({
-				url : `https://app.aiboboxx.ml:${port}/getrss_a.php${search}`,
-                type : "GET",
+				url : `https://app.aiboboxx.ml:${port}/jdsign_a.php${search}`,
+                type : frm.attr("method"),
 				//dataType: "json",
                 async : true,
+                data : frm.serialize(),
+                beforeSend: function() {
+                    // setting a timeout
+                    $("#contactform").remove();
+                    $("#msg").html('正在提交，请稍后。。。');
+                 },
                 success : function(data) {
-					console.log(data);
+					//console.log(data);
                     $("#msg").html(data);
 					//alert(data);
                 },
@@ -124,8 +190,11 @@ $(function(){
                     alert(data);
                 }
             });
+			return false;
+			}
+								
+	});
 });
-
 </script>      
 
 <div class="site-footer gt-c-content-color-first">

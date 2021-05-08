@@ -34,6 +34,7 @@
 	width: 100px; 
 	line-height: 25px; 
 	font-size: 15px; 
+	float: left;
 	}	
 	.input{
 	font-family: Arial, Verdana; 
@@ -113,10 +114,10 @@
         display: table-cell;                        
         width: 20%;                          
     }        
-    .center{            
-        /* padding-top: 10px; */            
-        /* height: 100px;  */                 
-    } 
+    /*.center {            
+         padding-top: 10px;             
+         height: 100px;                 
+    } */
 
 	.valid{
     background: url(right.png) no-repeat right;
