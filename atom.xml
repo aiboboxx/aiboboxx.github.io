@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-09T11:32:33.576Z</updated>
+    <updated>2021-05-09T11:52:12.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -57,11 +57,8 @@
         <link href="https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/">
         </link>
         <updated>2021-04-04T14:07:35.000Z</updated>
-        <content type="html"><![CDATA[<p>​#####  <strong>特别提醒：</strong></p>
+        <content type="html"><![CDATA[<p><strong>特别提醒：</strong></p>
 <p>本站提供的公益v2ray订阅地址完全免费，来源于https://v2.freeok.xyz/。</p>
-<p>到https://v2.freeok.xyz/ 注册账户后，会获得0.66元。网站提供两种公益套餐</p>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimagesimage-20210509190100570-1620558060-72dc29-1620558361-d5efc2.png" style="zoom: 50%;" />
-<p>套餐使用完毕后需要登录网站重复购买。0.66元至少可以使用两个月，但是要不间断的登录网站购买套餐。</p>
 <p>本站提供的公益v2ray订阅地址至少可以连续使用一个月，但请遵守以下规定：</p>
 <p>一、以下情况将被封禁：</p>
 <p>1、获取订阅地址成功后，三小时内未使用。</p>
