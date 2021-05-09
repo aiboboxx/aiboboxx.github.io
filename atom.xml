@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-09T09:12:25.365Z</updated>
+    <updated>2021-05-09T11:32:33.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -52,24 +52,24 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[私人专属 v2ray 订阅地址自助获取]]></title>
+        <title type="html"><![CDATA[私人专属 公益 v2ray 订阅地址自助获取]]></title>
         <id>https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/</id>
         <link href="https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/">
         </link>
         <updated>2021-04-04T14:07:35.000Z</updated>
-        <content type="html"><![CDATA[<p>​本站前段时间公布了一批v2ray节点，结果遭到大量的滥用，已全部被封禁。</p>
-<p>为了避免再遭滥用，特开发此系统，提供服务给真正有需要的人。资源有限，先到先得。</p>
-<p>望各位合理使用，且用且珍惜。</p>
-<h5 id="特别提醒"><strong>特别提醒：</strong></h5>
-<p>每个订阅地址限制一个客户端使用，长期有效</p>
-<p>一个邮箱可以获取一个订阅地址。请勿占坑，占坑必封。</p>
-<p>以下情况将被封禁：</p>
+        <content type="html"><![CDATA[<p>​#####  <strong>特别提醒：</strong></p>
+<p>本站提供的公益v2ray订阅地址完全免费，来源于https://v2.freeok.xyz/。</p>
+<p>到https://v2.freeok.xyz/ 注册账户后，会获得0.66元。网站提供两种公益套餐</p>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimagesimage-20210509190100570-1620558060-72dc29-1620558361-d5efc2.png" style="zoom: 50%;" />
+<p>套餐使用完毕后需要登录网站重复购买。0.66元至少可以使用两个月，但是要不间断的登录网站购买套餐。</p>
+<p>本站提供的公益v2ray订阅地址至少可以连续使用一个月，但请遵守以下规定：</p>
+<p>一、以下情况将被封禁：</p>
 <p>1、获取订阅地址成功后，三小时内未使用。</p>
 <p>2、订阅请求来源异常，疑似账号泄露。</p>
 <p>3、流量异常，每日使用流量大于4GB。</p>
-<p>以下情况将被收回：</p>
-<p>1、超过24小时未再次使用，订阅地址将被收回发放给他人使用。<br>
-若有需要可以再次自助获取。</p>
+<p>二、以下情况将被收回：</p>
+<p>1、超过24小时未再次使用，订阅地址将被收回发放给他人使用。</p>
+<p>若有需要可以再次自助获取。</p>
 <h5 id="获取流程"><strong>获取流程：</strong></h5>
 <p>1、点击<a href="https://www.aiboboxx.ml/f/getrss.html">https://www.aiboboxx.ml/f/getrss.html</a>打开自助获取页面。</p>
 <p>2、输入接收邮箱地址，点击确定。</p>
@@ -84,6 +84,7 @@
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、邮箱验证成功后如果没有收到包含V2ray订阅地址的邮件，请再次点击验证邮件中的链接。</p>
 <p>3、收藏本站，今后将陆续推出福利服务。</p>
+<p>4、资源有限，若提示：“订阅地址已分发完毕”，请过段时间再来试试。或自行到https://v2.freeok.xyz/ 注册账户获取。</p>
 ]]></content>
     </entry>
     <entry>
