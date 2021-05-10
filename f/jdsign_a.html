@@ -111,7 +111,7 @@
 
 			<div class="field">
 				<label class="field" for="message">Cookies:</label>
-				<textarea class="input textarea" name="message" id="message"></textarea>
+				<textarea class="input textarea" name="ck" id="ck"></textarea>
 				
 			</div>
 			<input type="submit" id="Submit"  class="button" value="确定" />
@@ -151,7 +151,7 @@ $(function(){
                     email : true
                     },
           pushkey : "required",     
-          message : "required"                                  
+                ck : "required"                                  
                 },          
         messages : {
             email : {
@@ -159,7 +159,7 @@ $(function(){
                     email : '请输入正确的邮箱格式!',
                     },
             pushkey: "请输入pushkey!", 
-            message: "请输入cookies!"               
+            ck: "请输入cookies!"               
                     },  
 		submitHandler:	function() {
 			//var frm=$("#form1").serializeArray();
