@@ -181,7 +181,7 @@ $(function(){
 					//alert(data);
                 },
                 error : function(data) {
-                    $("#msg").html('出错了：'+ JSON.parse(data));
+                    $("#msg").html('出错了：'+ JSON.stringify(data));
                 }
             });
 			return false;
