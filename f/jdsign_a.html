@@ -128,7 +128,7 @@
 <script type="text/javascript" src="js/jquery.validate.js"></script>
 <script src="js/port.js"></script>
 <script type="text/javascript">
-var search = window.location.search;
+//var search = window.location.search;
 function getQueryVariable(variable)
 {
        var query = window.location.search.substring(1);
@@ -165,7 +165,7 @@ $(function(){
 			//var frm=$("#form1").serializeArray();
             var frm = $("#contactform");
             $.ajax({
-				url : `https://app.aiboboxx.ml:${port}/jdsign_a.php${search}`,
+				url : `https://app.aiboboxx.ml:${port}/jdsign_a.php`,
                 type : frm.attr("method"),
 				//dataType: "json",
                 async : true,
