@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-18T15:26:26.015Z</updated>
+    <updated>2021-05-19T03:21:00.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -69,11 +69,8 @@
 <p>转到京东自动签到设置页面。<br>
 Pushkey栏填入上面获取的Server酱SCKEY，此项可留空，留空微信收不到执行结果通知。<br>
 Cookies栏填入上面获取的京东cookie，此项必填。<br>
-最后点击确定提交。<br>
+最后点击确定提交。提交成功后，加入队列开始全自动化签到。<br>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimage-20210518232525588-1621351529-187efe.png" alt="image-20210518232525588" style="zoom: 50%;" /></p>
-</li>
-<li>
-<p>提交成功后，半小时左右就会看到执行结果。以后每天凌晨3点，按照队列开始全自动化签到。</p>
 <p>​</p>
 </li>
 </ul>
