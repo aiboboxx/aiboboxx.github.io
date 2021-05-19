@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-19T07:37:09.373Z</updated>
+    <updated>2021-05-19T08:14:14.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -31,7 +31,7 @@
 <h4 id="2-获取京东cookie必须">2、获取京东cookie（必须）</h4>
 <ul>
 <li>打开Chrome浏览器，安装插件<a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a></li>
-<li>点击<a href="https://bean.m.jd.com/">领京豆</a>，并登录。</li>
+<li>点击 <a href="https://bean.m.jd.com/">这里</a>，并用上面注册的京东账号登录。</li>
 <li>点击<code>EditThisCookie</code>，再点击导出cookies，将导出的文本保存待用。<br>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesaaab-1621348979-576cb8.gif" alt="动画" loading="lazy"></li>
 </ul>
