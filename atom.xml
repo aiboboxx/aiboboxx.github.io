@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-21T02:08:03.119Z</updated>
+    <updated>2021-05-21T03:27:56.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -69,7 +69,7 @@
 <p>转到京东自动签到设置页面。<br>
 Pushkey栏填入上面获取的Server酱SCKEY，此项可留空，留空微信收不到执行结果通知。<br>
 Cookies栏填入上面获取的京东cookie，此项必填。<br>
-最后点击确定提交。提交成功后，加入队列开始全自动化签到。<br>
+最后点击确定提交。提交成功后，加入队列。每天5：30开始全自动化签到。<br>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimage-20210518232525588-1621351529-187efe.png" alt="image-20210518232525588" style="zoom: 50%;" /></p>
 <p>​</p>
 </li>
@@ -119,7 +119,7 @@ Cookies栏填入上面获取的京东cookie，此项必填。<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[私人专属 公益 v2ray 订阅地址自助获取]]></title>
+        <title type="html"><![CDATA[免费白嫖公益v2ray机场订阅地址自助获取]]></title>
         <id>https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/</id>
         <link href="https://www.aiboboxx.ml/post/v2ray-mian-fei-dian-yue-di-zhi/">
         </link>
