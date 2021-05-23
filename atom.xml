@@ -2,80 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-21T08:19:45.965Z</updated>
+    <updated>2021-05-23T11:52:54.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
     <logo>https://www.aiboboxx.ml/images/avatar.png</logo>
     <icon>https://www.aiboboxx.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, 爱波波的XX</rights>
-    <entry>
-        <title type="html"><![CDATA[京东全自动化签到，薅尽东哥羊毛]]></title>
-        <id>https://www.aiboboxx.ml/post/jd_auto_sign/</id>
-        <link href="https://www.aiboboxx.ml/post/jd_auto_sign/">
-        </link>
-        <updated>2021-05-18T15:10:15.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="效果截图">效果截图：</h2>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesScreenshot_20210518-111459_WeChat-1621308098-405334.jpg" style="zoom: 33%;" />
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesScreenshot_20210518-111515_WeChat-1621308157-44e2f1.jpg" style="zoom: 33%;" />
-<h2 id="特别提醒">特别提醒：</h2>
-<p>本站提供京东全自动签到服务完全免费。</p>
-<p>每天签到可得京豆40左右、钢镚0.01，以及其他现金、红包、金贴等若干。</p>
-<p>京豆1000可抵现金10元，一个月可得京豆40*30约1200左右。</p>
-<h2 id="使用流程">使用流程：</h2>
-<h4 id="1-注册京东账户">1、注册京东账户</h4>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimagesScreenshot_20210518-154816-1621325310-61526c-1621350758-f516e9.jpeg" style="zoom: 33%;" />
-<ul>
-<li>扫描上面二维码，下载京东app，注册一个京东账户。</li>
-</ul>
-<h4 id="2-获取京东cookie必须">2、获取京东cookie（必须）</h4>
-<ul>
-<li>打开Chrome浏览器，安装插件<a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">EditThisCookie</a></li>
-<li>点击这里 <a href="https://bean.m.jd.com/">领京豆</a>，并用上面注册的手机号登录。</li>
-<li>登录成功后，点击<code>EditThisCookie</code>（注意此时页面的域名开头是：https://h5.m.jd.com/），再点击导出cookies，将导出的文本保存待用。<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesaaab-1621348979-576cb8.gif" alt="动画" loading="lazy"></li>
-</ul>
-<h4 id="3-获取server酱sckey可选">3、获取Server酱SCKEY（可选）</h4>
-<ul>
-<li>
-<p>github 授权登录<a href="http://sc.ftqq.com/3.version">Server酱</a>官网</p>
-</li>
-<li>
-<p>登录成功后选择，继续访问旧版： <a href="http://sc.ftqq.com/3.version">sc.ftqq.com</a></p>
-</li>
-<li>
-<p>点击 <a href="http://sc.ftqq.com/?c=code">发送消息</a> 拷贝SCKEY，保存待用。</p>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210518203532-1621341333-9f41b0.png" style="zoom: 33%;" />
-</li>
-</ul>
-<h4 id="4-提交京东自动签到参数">4、提交京东自动签到参数</h4>
-<ul>
-<li>
-<p>点击https://www.aiboboxx.ml/f/jdsign.html打开京东自动签到邮箱验证页面</p>
-</li>
-<li>
-<p>输入接收邮箱地址，点击确定。</p>
-<p>​                                                              <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimage-20210518204211802-1621342227-faf358.png" alt="image-20210518204211802" style="zoom: 67%;" /></p>
-</li>
-<li>
-<p>到接收邮箱中找到验证邮箱邮件。<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210427105641.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>点击验证邮件中的链接。<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimage-20210518210120825-1621350770-5afb32.png" alt="image-20210518210120825" style="zoom: 50%;" /></p>
-</li>
-<li>
-<p>转到京东自动签到设置页面。<br>
-Pushkey栏填入上面获取的Server酱SCKEY，此项可留空，留空微信收不到执行结果通知。<br>
-Cookies栏填入上面获取的京东cookie，此项必填。<br>
-最后点击确定提交。提交成功后，加入队列。每天5：30开始全自动化签到。<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/imagesimage-20210518232525588-1621351529-187efe.png" alt="image-20210518232525588" style="zoom: 50%;" /></p>
-<p>​</p>
-</li>
-</ul>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[v2ray订阅地址使用说明]]></title>
         <id>https://www.aiboboxx.ml/post/v2ray-ding-yue-di-zhi-shi-yong-shuo-ming/</id>
