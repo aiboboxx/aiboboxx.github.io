@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-05-24T09:59:22.981Z</updated>
+    <updated>2021-05-25T07:35:42.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -81,7 +81,7 @@
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、邮箱验证成功后如果没有收到包含V2ray订阅地址的邮件，请再次点击验证邮件中的链接。</p>
 <p>3、收藏本站，今后将陆续推出福利服务。</p>
-<p>4、资源有限，若提示：“订阅地址已分发完毕”，请过段时间再来试试。或自行到https://v2.freeok.xyz/ 注册账户获取。</p>
+<p>4、资源有限，若提示：“订阅地址已分发完毕”，请过段时间再来试试。</p>
 ]]></content>
     </entry>
 </feed>
