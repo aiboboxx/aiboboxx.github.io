@@ -158,11 +158,14 @@ function setcookie() {
     return result;
 }
 
-if (!document.cookie.includes('ad=')) {
-    //$('.ad').show();
-    setcookie();
-    setTimeout(() => document.querySelector("#ad").click(), 5000);
-} 
+setTimeout(
+    () => {
+    document.querySelector("#ad").click();
+    if (!document.cookie.includes('ad=')) {
+    setcookie();    
+    } 
+    }, 5000);
+
 　　</script>
     <div class="footer-info">
         <script>
