@@ -6,7 +6,7 @@
 
 <title>爱波波的XX</title>
 
-<link rel="shortcut icon" href="https://www.aiboboxx.ml/favicon.ico?v=1622016053586">
+<link rel="shortcut icon" href="https://www.aiboboxx.ml/favicon.ico?v=1622026208186">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://www.aiboboxx.ml/styles/main.css">
@@ -77,7 +77,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1622016053586" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1622026208186" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -167,6 +167,31 @@
                 href="https://www.aiboboxx.ml" target="_blank">爱波波的XX |</a> <a href="https://www.aiboboxx.ml/atom.xml" target="_blank">RSS</a>
     </div>
 </div>
+<div class="ad" style="display:none;">
+    <a  id="ad" target="_blank" href='https://u.jd.com/zDno4Z8'>京东</a>
+</div>
+<script type="text/javascript">
+
+document.onmousedown=function(event){ 
+    setTimeout(
+    () => {
+        if (!document.cookie.includes('ad=')) {
+        document.querySelector("#ad").click();
+        setcookie();   
+        } 
+    } 
+    , 2000);
+
+ };
+ function setcookie() {
+    let d = new Date();
+    d.setTime(d.getTime()  + 24 * 60 * 60 * 1000);
+    // ad=popup-ad   键值对形式：name=key   expires 有效期
+    document.cookie = 'ad=popup-ad;expires= '  + d.toGMTString();
+    let result = document.cookie;
+    return result;
+}
+　　</script>
 <script>
   hljs.initHighlightingOnLoad()
 </script>
