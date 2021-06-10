@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aiboboxx.ml</id>
     <title>爱波波的XX</title>
-    <updated>2021-06-09T08:36:22.427Z</updated>
+    <updated>2021-06-10T05:17:39.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.aiboboxx.ml"/>
     <link rel="self" href="https://www.aiboboxx.ml/atom.xml"/>
@@ -58,7 +58,7 @@
         </link>
         <updated>2021-04-04T14:07:35.000Z</updated>
         <content type="html"><![CDATA[<p><strong>特别提醒：</strong></p>
-<p>本站提供的公益v2ray订阅地址完全免费，来源于https://v2.freeok.xyz/。</p>
+<p>本站提供的公益v2ray订阅地址完全免费。</p>
 <p>本站提供的公益v2ray订阅地址至少可以连续使用一个月，但请遵守以下规定：</p>
 <p>一、以下情况将被封禁：</p>
 <p>1、获取订阅地址成功后，三小时内未使用。</p>
