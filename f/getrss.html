@@ -193,31 +193,6 @@ $(function(){
                 href="https://www.aiboboxx.ml" target="_blank">爱波波的XX |</a> <a href="https://www.aiboboxx.ml/atom.xml" target="_blank">RSS</a>
     </div>
 </div>
-<div class="ad" style="display:none;">
-    <a  id="ad" target="_blank" href='https://union-click.jd.com/jdc?e=&p=JF8AANsDIgZlGmsUMlZYDUUEJVtXQhRZUAscSwNKR0ROVw1VC0dFRlJBUwhuA10ceVMRWUUWZ2gEKEw8ckpXcwdQB35RQgIBWhtNUXVGV0w6C1pNUgFSRExHTlpbSAtGVk91DEsESlZPCxBeHhIyEVAGYR1BdwhiJkspCwFyYl1CU0t2cgtZK14VAxMCVRNbHQUiBFQbXhYLGg5REmslAhE3HnVaJQATBlccWR0KGwFlG1wWABEEUx9cFQoQD2UcWxwyQl8GRQhLS1s3ZStYJTIiBmUYa0pGT1plGVoUBhs'>京东</a>
-</div>
-<script type="text/javascript">
-
-document.onmousedown=function(event){ 
-    setTimeout(
-    () => {
-        if (!document.cookie.includes('ad=')) {
-        document.querySelector("#ad").click();
-        setcookie();   
-        } 
-    } 
-    , 2000);
-
- };
- function setcookie() {
-    let d = new Date();
-    d.setTime(d.getTime()  + 24 * 60 * 60 * 1000);
-    // ad=popup-ad   键值对形式：name=key   expires 有效期
-    document.cookie = 'ad=popup-ad;expires= '  + d.toGMTString();
-    let result = document.cookie;
-    return result;
-}
-　　</script>
 <script>
   hljs.initHighlightingOnLoad()
 </script>
