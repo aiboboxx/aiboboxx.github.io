@@ -127,8 +127,9 @@
       el: '#waline',
       path: location.pathname,
       serverURL: 'https://aiboboxx-ml-waline.vercel.app/',
-      anonymous: false,
-      requiredFields: ['nick', 'mail']
+      visitor:true,
+      requiredMeta: ['nick', 'mail'],
+      login:'force'
     });
   </script>
 <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
