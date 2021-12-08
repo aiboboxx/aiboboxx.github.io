@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2021-12-08T03:40:29.885Z</updated>
+    <updated>2021-12-08T03:45:01.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -72,7 +72,7 @@
 <p>1、超过24小时未再次使用，订阅地址将被收回发放给其他人使用。</p>
 <p>若有需要可以再次自助获取。</p>
 <h5 id="获取流程"><strong>获取流程：</strong></h5>
-<p>1、点击<a href="/getrss.html">这里</a>打开自助获取页面。</p>
+<p>1、点击<a href="/f/getrss.html">免费公益v2ray节点订阅地址自助获取页面</a>。</p>
 <p>2、输入接收邮箱地址，点击确定。</p>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/images20210427100625.png" style="zoom: 67%;" />
 <p>3、到接收邮箱中找到验证邮箱邮件。</p>
