@@ -20,7 +20,7 @@
 
 ##### **获取流程：**
 
-1、点击https://www.aiboboxx.ml/f/getrss.html打开自助获取页面。
+1、点击https://www.v2rayfree.eu.grg/f/getrss.html打开自助获取页面。
 
 2、输入接收邮箱地址，点击确定。
 
