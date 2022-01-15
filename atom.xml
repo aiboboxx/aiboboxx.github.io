@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2021-12-17T02:27:04.364Z</updated>
+    <updated>2022-01-15T00:59:30.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
     <subtitle>免费公益v2ray节点订阅</subtitle>
     <logo>https://www.v2rayfree.eu.org/images/avatar.png</logo>
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
-    <rights>All rights reserved 2021, 免费公益v2ray节点订阅</rights>
+    <rights>All rights reserved 2022, 免费公益v2ray节点订阅</rights>
     <entry>
         <title type="html"><![CDATA[v2ray订阅地址使用说明]]></title>
         <id>https://www.v2rayfree.eu.org/post/v2ray-ding-yue-di-zhi-shi-yong-shuo-ming/</id>
