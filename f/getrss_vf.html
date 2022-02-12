@@ -111,13 +111,14 @@
             </div>
 
             <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+            <script type="text/javascript" src="js/jquery.validate.js"></script>
             <script src="js/port.js"></script>
             <script type="text/javascript">
                 var search = window.location.search;
-                //console.log(`https://app.aiboboxx.ml:${port}/action.php${search}`);
+                console.log(`${ajaxUrl_vf}${search}`);
                 $(function () {
                     $.ajax({
-                        url: `https://app.aiboboxx.ml:${port}/getrss_a.php${search}`,
+                        url: `${ajaxUrl_vf}${search}`,
                         type: "GET",
                         //dataType: "json",
                         async: true,
