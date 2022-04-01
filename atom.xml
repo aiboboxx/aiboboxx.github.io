@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-01T13:10:39.169Z</updated>
+    <updated>2022-04-01T13:38:59.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -13,12 +13,14 @@
     <rights>All rights reserved 2022, 免费公益v2ray节点订阅</rights>
     <entry>
         <title type="html"><![CDATA[高速v2ray机场试用 期限一天]]></title>
-        <id>https://www.v2rayfree.eu.org/post/-V5ZuXQsf/</id>
-        <link href="https://www.v2rayfree.eu.org/post/-V5ZuXQsf/">
+        <id>https://www.v2rayfree.eu.org/post/gaosutiyan/</id>
+        <link href="https://www.v2rayfree.eu.org/post/gaosutiyan/">
         </link>
         <updated>2022-04-01T12:22:25.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://www.v2rayfree.eu.org/post-images/1648818583448.png" alt="" loading="lazy"><br>
-体验套餐 Lv.1</p>
+        <content type="html"><![CDATA[<a href="https://www.kxyz.eu.org/1.html">
+<img src="https://images-abx.vercel.app/2022/04/01/2deac72c03770d7aa403fcce4f11ec32-34cd28.png" alt="img" style="zoom:67%;" />
+</a>
+<p>体验套餐 Lv.1</p>
 <p>超大流量：480G</p>
 <p>客户端数量：1</p>
 <p>端口速率：156 mbps</p>
