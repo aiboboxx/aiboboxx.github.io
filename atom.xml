@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-01T12:38:33.748Z</updated>
+    <updated>2022-04-01T13:03:29.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
-    <subtitle>免费公益v2ray节点订阅</subtitle>
+    <subtitle>免费公益v2ray节点订阅、免费机场、免费翻墙、免费科学上网、
+免费节点、免费梯子、免费ss/v2ray/trojan节点</subtitle>
     <logo>https://www.v2rayfree.eu.org/images/avatar.png</logo>
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
     <rights>All rights reserved 2022, 免费公益v2ray节点订阅</rights>
@@ -22,7 +23,6 @@
 <p>客户端数量：1</p>
 <p>端口速率：156 mbps</p>
 <p>试用地址：<a href="https://www.kxyz.eu.org/1.html">高速v2ray机场体验</a></p>
-<p>本服务由<a href="https://www.kxyz.eu.org/">开心驿站</a>提供</p>
 ]]></content>
     </entry>
     <entry>
