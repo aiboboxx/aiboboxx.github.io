@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-03-28T03:29:16.195Z</updated>
+    <updated>2022-04-01T12:38:33.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -11,17 +11,19 @@
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
     <rights>All rights reserved 2022, 免费公益v2ray节点订阅</rights>
     <entry>
-        <title type="html"><![CDATA[开心驿站：最专业的StreamStore游戏下载仓库，国际游戏爱好者交流中心]]></title>
-        <id>https://www.v2rayfree.eu.org/post/AH32YQZbV/</id>
-        <link href="https://www.v2rayfree.eu.org/post/AH32YQZbV/">
+        <title type="html"><![CDATA[高速v2ray机场试用 期限一天]]></title>
+        <id>https://www.v2rayfree.eu.org/post/-V5ZuXQsf/</id>
+        <link href="https://www.v2rayfree.eu.org/post/-V5ZuXQsf/">
         </link>
-        <updated>2022-03-18T05:36:13.000Z</updated>
-        <content type="html"><![CDATA[<p>开心驿站：https://www.kxyz.eu.org/<br>
-最专业的StreamStore游戏下载仓库，国际游戏爱好者交流中心<br>
-<img src="https://www.kxyz.eu.org//wp-content/uploads/2022/01/1641200239-bb27603654f82d9.jpg" alt="img" loading="lazy"></p>
-<script>
-window.location.href = `https://www.kxyz.eu.org/`;
-</script>]]></content>
+        <updated>2022-04-01T12:22:25.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://images-abx.vercel.app/2022/04/01/2deac72c03770d7aa403fcce4f11ec32-34cd28.png" alt="img" loading="lazy"></figure>
+<p>体验套餐 Lv.1</p>
+<p>超大流量：480G</p>
+<p>客户端数量：1</p>
+<p>端口速率：156 mbps</p>
+<p>试用地址：<a href="https://www.kxyz.eu.org/1.html">高速v2ray机场体验</a></p>
+<p>本服务由<a href="https://www.kxyz.eu.org/">开心驿站</a>提供</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v2ray订阅地址使用说明]]></title>
