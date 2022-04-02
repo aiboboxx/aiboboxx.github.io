@@ -40,7 +40,7 @@
 
 
 
-1、点击[V2ray订阅地址自助获取](/f/getrss.html)。
+1、点击[V2ray订阅地址自助获取](https://www.v2rayfree.eu.org/getrss.html)。
 
 
 
@@ -66,7 +66,6 @@
 
 5、邮箱验证成功后，就会收到包含V2ray订阅地址的邮件。
 
-![image-20211211162449433](https://cdn.jsdelivr.net/gh/aiboboxx/images/63332afaa1be8a285bd4964fa99bce54-49416d.png)
 
 
 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-01T13:38:59.460Z</updated>
+    <updated>2022-04-02T14:28:05.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -97,7 +97,6 @@
 <p>4、点击验证邮件中的链接。</p>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/bc96f302d89d22fc645e83077404b45d-37ec8d.png" alt="image-20211211162807121" style="zoom: 67%;" />
 <p>5、邮箱验证成功后，就会收到包含V2ray订阅地址的邮件。</p>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/63332afaa1be8a285bd4964fa99bce54-49416d.png" alt="image-20211211162449433" loading="lazy"></figure>
 <h5 id="补充说明"><strong><strong>补充说明：</strong></strong></h5>
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、邮箱验证成功后如果没有收到包含V2ray订阅地址的邮件，请再次点击验证邮件中的链接。</p>
