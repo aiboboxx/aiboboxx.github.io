@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-07T09:08:59.739Z</updated>
+    <updated>2022-04-07T09:18:05.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -518,13 +518,25 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 </ul>
 <h2 id="通过节点代理上网">通过节点代理上网</h2>
 <ul>
-<li>在 软件界面 查看所有的节点<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-10-8132d9.png" alt="img" loading="lazy"></li>
-<li>选择任意节点 右键点击 设为活动的服务器<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-11-08ffc8.png" alt="img" loading="lazy"></li>
-<li>右键点击 桌面-任务栏右下角 v2rayN软件图标 - HTTP代理 - 全局代理<br>
-<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-12-b66fde.png" alt="img" loading="lazy"></li>
-<li>然后愉快的上网吧</li>
+<li>
+<p>在 软件界面 查看所有的节点<br>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-10-8132d9.png" alt="img" loading="lazy"></p>
+</li>
+<li>
+<p>选择任意节点 右键点击 设为活动的服务器<br>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-11-08ffc8.png" alt="img" loading="lazy"></p>
+</li>
+<li>
+<p>右键点击 桌面-任务栏右下角 v2rayN软件图标 - HTTP代理 - 全局代理<br>
+<img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/20211008-18-04-17-12-b66fde.png" alt="img" loading="lazy"></p>
+</li>
+<li>
+<p>然后愉快的上网吧</p>
+</li>
+<li>
+<p>v2rayN简单易上手，适合新手使用，但是不能自动更换节点。节点受到长城墙干扰时，需要手动更换节点，这点比较麻烦。</p>
+<p>需要自动更换节点、或强大分流规则的用户，推荐使用clash。clash详细教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/</a></p>
+</li>
 </ul>
 ]]></content>
     </entry>
