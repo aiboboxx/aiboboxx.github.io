@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-07T10:00:19.789Z</updated>
+    <updated>2022-04-07T23:48:55.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -12,12 +12,12 @@
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
     <rights>All rights reserved 2022, 免费公益v2ray节点订阅</rights>
     <entry>
-        <title type="html"><![CDATA[clash、quanmultx、surge等客户端订阅转换教程]]></title>
+        <title type="html"><![CDATA[订阅链接转换教程]]></title>
         <id>https://www.v2rayfree.eu.org/post/v2ray-to-clash/</id>
         <link href="https://www.v2rayfree.eu.org/post/v2ray-to-clash/">
         </link>
         <updated>2022-04-07T08:47:35.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="clash-quanmultx-surge等客户端订阅转换教程">clash、quanmultx、surge等客户端订阅转换教程</h1>
+        <content type="html"><![CDATA[<h1 id="v2ray-clash-quanmultx-surge等客户端订阅转换教程">v2ray、clash、quanmultx、surge等客户端订阅转换教程</h1>
 <p>首先复制好你的v2ray订阅链接</p>
 <p>没有V2ray订阅链接？请移步 👉 <a href="https://www.v2rayfree.eu.org/post/free-v2ray/">https://www.v2rayfree.eu.org/post/free-v2ray/</a> 免费获取。</p>
 <p>进入转换网址：https://acl4ssr-sub.github.io/</p>
