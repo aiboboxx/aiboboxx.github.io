@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray节点订阅</title>
-    <updated>2022-04-08T02:13:45.737Z</updated>
+    <updated>2022-04-08T12:53:17.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -110,10 +110,6 @@
 </li>
 <li>
 <p>然后愉快的上网吧</p>
-</li>
-<li>
-<p>v2rayN简单易上手，适合新手使用，但是不能自动更换节点。节点受到长城墙干扰时，需要手动更换节点，这点比较麻烦。</p>
-<p>需要自动更换节点、或强大分流规则的用户，推荐使用clash。clash详细教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/</a></p>
 </li>
 </ul>
 ]]></content>
