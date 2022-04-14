@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray机场订阅</title>
-    <updated>2022-04-14T00:18:38.162Z</updated>
+    <updated>2022-04-14T00:26:46.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -433,25 +433,25 @@ Github地址：https://github.com/yichengchen/clashX/releases<br>
 <p>请打开 ClashX 软件。<br>
 首次使用 ClashX 时，macOS 会提醒你此应用来自未知开发者，请允许打开此应用。<br>
 ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程序用于设置系统代理，否则每次你通过 ClashX 变更系统系统状态（打开或关闭）时都需要输入密码，请点击 “Install”，之后 macOS 会提示输入用户密码。</p>
-<figure data-type="image" tabindex="1"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C3079236644.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C3079236644.jpg" alt="1" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="1"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C3079236644.jpg"><img src="https://images-abx.vercel.app/2022/04/14/a021deff826ae9dffc0735c30d7eff58-a49738.jpg" alt="1" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C3079236644.jpg">1</a></p>
 <p>启动 ClashX，点击状态栏中的 ClashX 图标，依次选择「配置」、「托管配置」、「管理」，在弹出的界面点击添加订阅。</p>
-<figure data-type="image" tabindex="2"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1860530914.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1860530914.jpg" alt="2" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="2"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1860530914.jpg"><img src="https://images-abx.vercel.app/2022/04/14/8ee25c7b52fadf56ecb755c3e16c64e7-d81e61.jpg" alt="2" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1860530914.jpg">2</a></p>
-<figure data-type="image" tabindex="3"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C4091364052.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C4091364052.jpg" alt="3" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="3"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C4091364052.jpg"><img src="https://images-abx.vercel.app/2022/04/14/512c117dc2bfbb7db2091de3e553964d-67a3eb.jpg" alt="3" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C4091364052.jpg">3</a></p>
-<figure data-type="image" tabindex="4"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C974690266.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C974690266.jpg" alt="4" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="4"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C974690266.jpg"><img src="https://images-abx.vercel.app/2022/04/14/f8eea81cf1fb7f09c735179715af332b-7e7099.jpg" alt="4" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C974690266.jpg">4</a></p>
 <p>若干秒后将在软件里看到刚刚添加的配置文件。</p>
-<figure data-type="image" tabindex="5"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C2281085310.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C2281085310.jpg" alt="5" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="5"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C2281085310.jpg"><img src="https://images-abx.vercel.app/2022/04/14/3ccae9eeb936e50b5c3108b53fedf618-1f5eed.jpg" alt="5" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C2281085310.jpg">5</a></p>
 <p>点击 ClashX 状态栏图标，将「出站模式」选为「规则判断」，在「Proxy」或「Gloabal」策略组中可以选择自己喜欢的线路，然后点击「设置为系统代理」即可开始使用。</p>
 <p>「Proxy」或「Gloabal」策略组是用于访问国际互联网的默认策略，一般情况下，所有国际网络的访问都通过该策略组中选择的节点进行连接。</p>
-<figure data-type="image" tabindex="6"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1813241339.png"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1813241339.png" alt="5" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="6"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1813241339.png"><img src="https://images-abx.vercel.app/2022/04/14/2b3491998a53511731370f515facfe68-6a40cc.png" alt="5" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1813241339.png">5</a></p>
-<figure data-type="image" tabindex="7"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C142645459.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C142645459.jpg" alt="6" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="7"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C142645459.jpg"><img src="https://images-abx.vercel.app/2022/04/14/0491808d0e06b32e497bd3583fd0f756-c73a71.jpg" alt="6" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C142645459.jpg">6</a></p>
-<figure data-type="image" tabindex="8"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1214799673.jpg"><img src="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1214799673.jpg" alt="7" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="8"><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1214799673.jpg"><img src="https://images-abx.vercel.app/2022/04/14/e0b8885bb6524e832c493070a8b7f327-bb0eef.jpg" alt="7" loading="lazy"></a></figure>
 <p><a href="D:%5CUsers%5Cliubo%5CDocuments%5Cmd%5Cimages%5C1214799673.jpg">7</a></p>
 <p>此时您已可以自由地连接国际互联网。</p>
 <h2 id="4-更多">4. 更多</h2>
