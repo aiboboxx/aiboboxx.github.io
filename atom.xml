@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费公益v2ray机场订阅</title>
-    <updated>2022-04-15T22:54:13.855Z</updated>
+    <updated>2022-04-18T01:13:35.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
-    <subtitle>免费公益v2ray机场订阅、免费机场、免费翻墙、免费科学上网、
-免费节点、免费梯子、免费ss/v2ray/trojan节点</subtitle>
+    <subtitle>免费公益v2ray节点订阅、免费v2ray订阅、免费v2rayNg订阅、免费节点、免费ss/v2ray/trojan/v2rayNg节点</subtitle>
     <logo>https://www.v2rayfree.eu.org/images/avatar.png</logo>
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
     <rights>All rights reserved 2022, 免费公益v2ray机场订阅</rights>
@@ -694,13 +693,13 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[免费公益v2ray机场订阅地址自助获取]]></title>
+        <title type="html"><![CDATA[免费v2ray节点订阅地址自助获取]]></title>
         <id>https://www.v2rayfree.eu.org/post/free-v2ray/</id>
         <link href="https://www.v2rayfree.eu.org/post/free-v2ray/">
         </link>
         <updated>2021-04-04T14:07:35.000Z</updated>
         <content type="html"><![CDATA[<p><strong><strong>特别提醒：</strong></strong></p>
-<p>本站提供的公益v2ray机场订阅地址完全免费。</p>
+<p>本站提供的公益v2ray节点订阅地址完全免费。</p>
 <p>一、以下情况将被封禁：</p>
 <p>1、获取订阅地址成功后，三小时内未使用。</p>
 <p>2、订阅请求来源异常，疑似账号泄露。</p>
