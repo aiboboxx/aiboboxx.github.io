@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-04-19T07:19:16.131Z</updated>
+    <updated>2022-04-20T08:45:23.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -504,6 +504,56 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 </ul>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneClick App使用教程]]></title>
+        <id>https://www.v2rayfree.eu.org/post/oneclick/</id>
+        <link href="https://www.v2rayfree.eu.org/post/oneclick/">
+        </link>
+        <updated>2022-04-06T12:37:35.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="1-简介">1. 简介</h4>
+<p>OneClick目前支持Trojan、Vmess、Shadowsocks等主流协议。</p>
+<hr>
+<h4 id="2-添加服务器">2. 添加服务器</h4>
+<ul>
+<li><strong>扫码添加</strong></li>
+</ul>
+<p>进入App首页，点击右上角的“+”按钮，进入添加服务器界面，点击“扫描二维码”按钮，扫描服务器二维码信息完成添加流程。</p>
+<p><img src="https://images-abx.vercel.app/2022/04/20/b6ab8bd9124b09b4b9129ab456f1b2c1-eb80ab.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/d8dd48c376761be175cd0b1a068caeff-4817f3.png" alt="img" loading="lazy"></p>
+<ul>
+<li><strong>通过订阅地址添加</strong></li>
+</ul>
+<p>提前复制服务器的订阅地址，进入App，点击右上角的“+”按钮，进入添加服务器界面，点击“添加订阅”按钮，把复制好的订阅地址粘贴到地址栏，同时填写备注信息，最后点击右上角的确认按钮完成添加。</p>
+<p><img src="https://images-abx.vercel.app/2022/04/20/b6ab8bd9124b09b4b9129ab456f1b2c1-eb80ab.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/ef73ef0c6f458a65634231a106d3e14e-03b618.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/3543acdb836ee695902d1bb5e1f23c40-7881c6.png" alt="img" loading="lazy"></p>
+<ul>
+<li><strong>从剪贴板导入</strong></li>
+</ul>
+<p>提前复制服务器的地址，进入App，点击右上角的“+”按钮，进入添加服务器界面，点击“添加配置”按钮，选择“从剪贴板导入”，即可自动导入服务器。</p>
+<p><img src="https://images-abx.vercel.app/2022/04/20/b6ab8bd9124b09b4b9129ab456f1b2c1-eb80ab.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/bef046e66e5ac79a42d79722a7f244ae-75ea6c.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/2249fc1d9c4e875b22a80c3e3dcab0a6-b188c3.png" alt="img" loading="lazy"></p>
+<ul>
+<li><strong>手动填写</strong></li>
+</ul>
+<p>进入App，点击右上角的“+”按钮，进入添加服务器界面，点击“添加配置”按钮，选择想要添加的协议配置，填写服务器配置信息，最后点击右上角的确认按钮完成添加。</p>
+<p><img src="https://images-abx.vercel.app/2022/04/20/b6ab8bd9124b09b4b9129ab456f1b2c1-eb80ab.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/bef046e66e5ac79a42d79722a7f244ae-75ea6c.png" alt="img" loading="lazy"></p>
+<p><img src="https://images-abx.vercel.app/2022/04/20/431f69a874d986333a4385bfb4f73363-f829a9.png" alt="img" loading="lazy"> <img src="https://images-abx.vercel.app/2022/04/20/4eb0fa892a45eb47ae10716d6b19af2f-2e2032.png" alt="img" loading="lazy"></p>
+<p>无代理服务器？点击<a href="https://fw321.xyz/">下单购买</a></p>
+<hr>
+<h4 id="3-选择服务器">3. 选择服务器</h4>
+<p>进入App首页，点击服务器选择按钮，进入服务器列表界面，选择需要连接的服务器</p>
+<figure data-type="image" tabindex="1"><img src="https://images-abx.vercel.app/2022/04/20/5e90b1185710624c271cd2acf4aef4a6-ea9171.png" alt="img" loading="lazy"></figure>
+<hr>
+<h4 id="4-选择代理模式">4. 选择代理模式</h4>
+<p>App提供自动、全局、直连模式，点击选择指定模式。</p>
+<ul>
+<li>自动模式。自动模式是指境外的网站走代理访问，国内的网站不会通过代理服务器。</li>
+<li>全局模式。全局模式是指所有网站通过代理访问，包括在国内可以直连的网站。</li>
+<li>直连模式。是指所有的服务器都不走代理服务器。</li>
+</ul>
+<hr>
+<h4 id="5-连接服务器">5. 连接服务器</h4>
+<p>点击App首页连接按钮，连接服务器。首次启动时会请求 VPN 权限，需要点击确定允许。</p>
+<figure data-type="image" tabindex="2"><img src="https://images-abx.vercel.app/2022/04/20/2c2ef80e75ad9a06d617aa209fa1f483-250293.png" alt="img" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
