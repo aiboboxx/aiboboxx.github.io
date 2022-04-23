@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-04-23T07:31:28.249Z</updated>
+    <updated>2022-04-23T12:07:50.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
-    <subtitle>提供免费公益v2ray节点及v2ray节点订阅地址，v2ray免费节点订阅地址自助获取。</subtitle>
+    <subtitle>提供免费公益v2ray节点及v2ray节点订阅地址，v2ray免费节点订阅地址自助获取。
+&lt;a href=&quot;http://www.9300.cc/&quot; target=&quot;_blank&quot;&gt;9300自动收录链&lt;/a&gt;</subtitle>
     <logo>https://www.v2rayfree.eu.org/images/avatar.png</logo>
     <icon>https://www.v2rayfree.eu.org/favicon.ico</icon>
     <rights>All rights reserved 2022, 免费v2ray节点</rights>
