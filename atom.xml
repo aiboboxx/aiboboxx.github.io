@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-04-25T10:15:16.757Z</updated>
+    <updated>2022-04-29T01:04:08.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -753,7 +753,7 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 <p><strong>以下情况将被封禁：</strong></p>
 <p>1、订阅请求来源异常，疑似账号泄露。</p>
 <p>2、流量异常，每日使用流量大于4GB。</p>
-<p>##### <em><strong>*获取流程：*</strong></em></p>
+<h5 id="获取流程"><strong><strong>获取流程：</strong></strong></h5>
 <p>1、点击：<strong><a href="/f/getrss.html"><em>V2ray订阅地址自助获取</em></a></strong></p>
 <p>2、输入接收邮箱地址，点击确定。</p>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/00529cc6b75784bc7dae5ad2ba54ab47-2eedd1.png" style="zoom: 67%;" />
@@ -762,7 +762,7 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 <p>4、点击验证邮件中的链接。</p>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/bc96f302d89d22fc645e83077404b45d-37ec8d.png" alt="image-20211211162807121" style="zoom: 67%;" />
 <p>5、邮箱验证成功后，回到**<a href="/f/getrss.html"><em>V2ray订阅地址自助获取</em></a>**页面，再次输入邮箱即可获取到v2ray订阅地址。</p>
-<p>##### <em><strong>*补充说明：*</strong></em></p>
+<h5 id="补充说明"><strong><strong>补充说明：</strong></strong></h5>
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、收藏本站，今后将陆续推出福利服务。</p>
 <p>3、资源有限，若提示：“订阅地址已分发完毕”，请过段时间再来试试。</p>
