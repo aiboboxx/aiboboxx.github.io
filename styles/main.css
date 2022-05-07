@@ -766,7 +766,7 @@ ul li {
 .site-footer {
   font-size: 12px;
   text-align: center;
-  padding: 24px;
+  /*padding: 24px;*/
 }
 .site-footer .slogan {
   padding-bottom: 16px;
