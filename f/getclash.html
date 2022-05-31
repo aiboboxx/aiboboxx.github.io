@@ -5,7 +5,7 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>V2ray机场订阅地址自助获取 | 免费v2ray节点</title>
+    <title>clash订阅地址自助获取 | 免费v2ray节点</title>
 
     <!-- 
     <script>
@@ -63,15 +63,6 @@
                         </a>
 
                     </div>
-
-                    <div class="nav-item">
-
-                        <a href="/tags" class="menu gt-a-link">
-                            标签
-                        </a>
-
-                    </div>
-
                     <div class="nav-item">
 
                         <a href="/post/about" class="menu gt-a-link">
@@ -79,6 +70,15 @@
                         </a>
 
                     </div>
+                    <div class="nav-item">
+
+                        <a href="/friends" class="menu gt-a-link">
+                            友链
+                        </a>
+
+                    </div>
+
+
 
                 </div>
                 <div style="text-align: center">
@@ -96,56 +96,122 @@
             <div class="post-detail gt-bg-theme-color-second">
                 <article class="gt-post-content">
                     <h2 class="post-title">
-                        V2ray、clash订阅地址自助获取-邮箱验证
+                        clash 订阅地址自助获取
                     </h2>
                     <div class="box">
                         <div class="left">
                         </div>
                         <div class="center">
-                            <div class="msg" id="msg">正在验证邮箱，请稍后。。。</div>
+                            <form id="contactform" class="rounded" method="post" action="">
+                                <div class="field">
+                                    <p>
+                                        友情提示：仅支持以下邮箱
+                                        qq.com,126.com,163.com,
+                                        gmail.com,hotmail.com,outlook.com
+                                    </p>
+                                </div>
+                                <div class="field">
+                                    <label class="field" for="email">Email:</label>
+                                    <input type="text" class="input" name="email" id="email" />
+                                    <input type="hidden" name="action" value="getrss">
+                                </div>
+                                <input type="submit" id="Submit" class="button" value="确定" />
+                            </form>
+                            <div class="msg" id="msg"></div>
                         </div>
                         <div class="right">
                         </div>
                     </div>
                 </article>
             </div>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css">
 
+            <script src="https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
+
+            <div id="gitalk-container">
+                <div id="waline"></div>
+            </div>
+            <script>
+                new Waline({
+                    el: '#waline',
+                    path: location.pathname,
+                    serverURL: 'https://v2rayfree-waline.vercel.app/',
+                    visitor: true,
+                    requiredMeta: ['nick', 'mail'],
+                    login: 'force',
+                    avatar: 'mp',
+                    copyright: false
+                });
+            </script>
             <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
             <script type="text/javascript" src="js/jquery.validate.js"></script>
             <script src="js/port.js"></script>
             <script type="text/javascript">
-                var search = window.location.search;
-                console.log(`${ajaxUrl_vf}${search}`);
                 $(function () {
-                    $.ajax({
-                        url: `${ajaxUrl_vf}${search}`,
-                        type: "GET",
-                        //dataType: "json",
-                        async: true,
-                        success: function (data) {
-                            console.log(data);
-                            $("#msg").html(data);
-                            //alert(data);
+                    $('#contactform').validate({
+                        rules: {
+                            email: {
+                                required: true,
+                                email: true
+                            }
                         },
-                        error: function (data) {
-                            alert(data);
+                        messages: {
+                            email: {
+                                required: '请输入接收邮箱！',
+                                email: '注意！请输入正确的邮箱格式',
+                            }
+                        },
+                        submitHandler: function () {
+                            //var frm=$("#form1").serializeArray();
+                            var frm = $("#contactform");
+                            $.ajax({
+                                //url : frm.attr("action"),
+                                url: ajaxUrlClash,
+                                type: frm.attr("method"),
+                                //dataType: "json",
+                                async: true,
+                                data: frm.serialize(),
+                                //var data=$("#form1").serializeArray();
+                                beforeSend: function () {
+                                    // setting a timeout
+                                    $("#contactform").remove();
+                                    $("#msg").html('正在生成订阅地址，请稍后。。。');
+                                },
+                                success: function (data) {
+                                    //console.log(data);					
+                                    $("#msg").html(data);
+                                    //alert(data);
+                                },
+                                error: function (data) {
+                                    alert(data.status);
+                                }
+                            });
+                            return false;
                         }
+
                     });
                 });
-
             </script>
-
-            <div class="site-footer gt-c-content-color-first">
-
-                <div class="footer-info">
-
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,4611217,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4611217&101" alt="" border="0"></a></noscript>
+    <!-- Histats.com  END  -->
+	<script async src="//static.getclicky.com/101345916.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101345916ns.gif" /></p></noscript>
                 </div>
                 <div>
                     Powered by <a href="https://www.v2rayfree.eu.org" target="_blank">免费v2ray节点 |</a> <a
                         href="https://www.v2rayfree.eu.org/atom.xml" target="_blank">RSS</a>
                 </div>
             </div>
-
             <script>
                 hljs.initHighlightingOnLoad()
             </script>
