@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-05-31T11:46:22.761Z</updated>
+    <updated>2022-05-31T11:51:20.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -780,7 +780,7 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 <figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/5dcdfa93612f448ace60dc76e0b491d2-bfe804.png" alt="image-20211211162217832" loading="lazy"></figure>
 <p>4、点击验证邮件中的链接。</p>
 <img src="https://cdn.jsdelivr.net/gh/aiboboxx/images/bc96f302d89d22fc645e83077404b45d-37ec8d.png" alt="image-20211211162807121" style="zoom: 67%;" />
-<p>5、邮箱验证成功后，回到**<a href="/f/getrss.html">V2ray订阅地址自助获取</a><strong>页面，再次输入邮箱即可获取到v2ray订阅地址。需要clash订阅地址，请回到</strong><a href="/f/getclash.html">clash订阅地址自助获取</a>**页面获取。</p>
+<p>5、邮箱验证成功后，回到<a href="/f/getrss.html"><strong>V2ray订阅地址自助获取</strong></a>页面，再次输入邮箱即可获取到v2ray订阅地址。需要clash订阅地址，请回到<a href="/f/getclash.html"><strong>clash订阅地址自助获取</strong></a>页面获取。</p>
 <h5 id="补充说明"><strong><strong>补充说明：</strong></strong></h5>
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、收藏本站，今后将陆续推出福利服务。</p>
