@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-06-03T14:33:16.855Z</updated>
+    <updated>2022-06-05T12:15:06.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -741,7 +741,7 @@ Value for 'Proxy' is invalid:Unexpected null or empty
         <id>https://www.v2rayfree.eu.org/post/gaosutiyan/</id>
         <link href="https://www.v2rayfree.eu.org/post/gaosutiyan/">
         </link>
-        <updated>2022-04-01T12:22:25.000Z</updated>
+        <updated>2022-04-03T01:22:25.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.kxyz.eu.org/1.html">
 <img src="https://images-abx.vercel.app/2022/04/01/2deac72c03770d7aa403fcce4f11ec32-34cd28.png" alt="img" style="zoom:67%;" />
 </a>
