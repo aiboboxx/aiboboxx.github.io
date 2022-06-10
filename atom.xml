@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-06-05T12:18:43.533Z</updated>
+    <updated>2022-06-10T15:27:05.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -776,12 +776,12 @@ Value for 'Proxy' is invalid:Unexpected null or empty
         </link>
         <updated>2022-04-03T01:22:25.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.kxyz.eu.org/1.html">
-<img src="https://images-abx.vercel.app/2022/04/01/2deac72c03770d7aa403fcce4f11ec32-34cd28.png" alt="img" style="zoom:67%;" />
+<img src="https://images-abx.vercel.app/2022/06/07/a7d60bc6c87066475ee2659827a8ae23-4260bf.png" alt="img" style="zoom:67%;" />
 </a>
 <p>体验套餐 Lv.1</p>
-<p>超大流量：480G</p>
+<p>超大流量：30G</p>
 <p>客户端数量：1</p>
-<p>端口速率：156 mbps</p>
+<p>端口速率：300 mbps</p>
 <p>众多全球高速节点</p>
 <p>自动切换最优节点</p>
 <p>高速v2ray机场试用：<a href="https://www.kxyz.eu.org/1.html">https://www.kxyz.eu.org/1.html</a></p>
