@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-06-10T15:27:05.454Z</updated>
+    <updated>2022-06-21T13:32:49.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -737,6 +737,24 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[高速v2ray机场试用 ]]></title>
+        <id>https://www.v2rayfree.eu.org/post/gaosutiyan/</id>
+        <link href="https://www.v2rayfree.eu.org/post/gaosutiyan/">
+        </link>
+        <updated>2022-04-05T01:22:25.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.kxyz.eu.org/1.html">
+<img src="https://images-abx.vercel.app/2022/06/07/a7d60bc6c87066475ee2659827a8ae23-4260bf.png" alt="img" style="zoom:67%;" />
+</a>
+<p>体验套餐 Lv.1</p>
+<p>超大流量：30G</p>
+<p>客户端数量：1</p>
+<p>端口速率：300 mbps</p>
+<p>众多全球高速节点</p>
+<p>自动切换最优节点</p>
+<p>高速v2ray机场试用：<a href="https://www.kxyz.eu.org/1.html">https://www.kxyz.eu.org/1.html</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[免费v2ray节点订阅地址自助获取]]></title>
         <id>https://www.v2rayfree.eu.org/post/free-v2ray/</id>
         <link href="https://www.v2rayfree.eu.org/post/free-v2ray/">
@@ -767,24 +785,6 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 <p>1、如果没有收到验证邮件，请到垃圾邮件箱看看，可能被当作垃圾邮件过滤了。</p>
 <p>2、收藏本站，今后将陆续推出福利服务。</p>
 <p>3、资源有限，若提示：“订阅地址已分发完毕”，请过段时间再来试试。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高速v2ray机场试用 ]]></title>
-        <id>https://www.v2rayfree.eu.org/post/gaosutiyan/</id>
-        <link href="https://www.v2rayfree.eu.org/post/gaosutiyan/">
-        </link>
-        <updated>2022-04-03T01:22:25.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.kxyz.eu.org/1.html">
-<img src="https://images-abx.vercel.app/2022/06/07/a7d60bc6c87066475ee2659827a8ae23-4260bf.png" alt="img" style="zoom:67%;" />
-</a>
-<p>体验套餐 Lv.1</p>
-<p>超大流量：30G</p>
-<p>客户端数量：1</p>
-<p>端口速率：300 mbps</p>
-<p>众多全球高速节点</p>
-<p>自动切换最优节点</p>
-<p>高速v2ray机场试用：<a href="https://www.kxyz.eu.org/1.html">https://www.kxyz.eu.org/1.html</a></p>
 ]]></content>
     </entry>
 </feed>
