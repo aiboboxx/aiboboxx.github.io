@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>免费v2ray节点</title>
-    <updated>2022-07-29T03:08:03.920Z</updated>
+    <updated>2022-07-30T23:57:18.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -27,7 +27,7 @@
 </li>
 <li>
 <p>原因：DNS被污染。</p>
-<p>解决方法：修改手机/电脑 dns解析服务为 114.114.114.114<br>
+<p>解决方法：请修改DNS地址为其他,推荐 223.5.5.5 223.6.6.6 阿里云DNS。<br>
 或搜索：常用 DNS解析服务。</p>
 </li>
 </ol>
