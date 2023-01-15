@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>v2ray免费节点</title>
-    <updated>2023-01-14T13:09:19.484Z</updated>
+    <updated>2023-01-15T07:07:27.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -17,9 +17,9 @@
         </link>
         <updated>2022-10-07T09:05:41.000Z</updated>
         <content type="html"><![CDATA[<p>不限流量高速机场推荐<br>
-<a target="_blank" href="https://www.kxyz.eu.org/v2ray">https://www.kxyz.eu.org/v2ray</a></p>
+<a target="_blank" href="https:/www.v2raya.eu.org">https:/www.v2raya.eu.org</a></p>
 <script>
-setTimeout(() => window.location.href = `https://www.kxyz.eu.org/v2ray`, 10);
+setTimeout(() => window.location.href = `https:/www.v2raya.eu.org`, 10);
 </script>]]></content>
     </entry>
     <entry>
