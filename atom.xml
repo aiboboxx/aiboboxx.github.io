@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.v2rayfree.eu.org</id>
     <title>v2ray免费节点</title>
-    <updated>2023-07-01T08:15:12.956Z</updated>
+    <updated>2023-07-10T09:57:34.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.v2rayfree.eu.org"/>
     <link rel="self" href="https://www.v2rayfree.eu.org/atom.xml"/>
@@ -70,22 +70,6 @@ sudo apt update
 <figure data-type="image" tabindex="6"><a href="https://pic.sky350.cn/images/1210_7.png"><img src="https://pic.sky350.cn/images/1210_7.png" alt="img" loading="lazy"></a></figure>
 <p>到此就完成了整个安装与配置，本篇v2rayA安装配置在别的Linux中仍然适用。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不限流量高速机场推荐]]></title>
-        <id>https://www.v2rayfree.eu.org/post/XVRF6S2fJ/</id>
-        <link href="https://www.v2rayfree.eu.org/post/XVRF6S2fJ/">
-        </link>
-        <updated>2022-10-07T09:05:41.000Z</updated>
-        <content type="html"><![CDATA[<p>不限流量高速机场推荐<br>
-⚡高速机场推荐【开心驿站】<br>
-1.66元即可体验不限流量高速机场服务，速度满意再订购长期套餐；<br>
-全球众多节点，4K不卡顿；<br>
-网站注册地址：https://www.kxyz.eu.org/v2ray/<br>
-<a target="_blank" href="https://www.kxyz.eu.org/v2ray">https://www.kxyz.eu.org/v2ray</a></p>
-<script>
-setTimeout(() => window.location.href = `https://www.kxyz.eu.org/v2ray`, 100);
-</script>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[v2ray节点全部timeout怎么办？]]></title>
@@ -767,6 +751,71 @@ Value for 'Proxy' is invalid:Unexpected null or empty
 <p>需要自动更换节点、或强大分流规则的用户，推荐使用clash。clash详细教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/</a></p>
 </li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V2Ray客户端简介]]></title>
+        <id>https://www.v2rayfree.eu.org/post/V2Ray/</id>
+        <link href="https://www.v2rayfree.eu.org/post/V2Ray/">
+        </link>
+        <updated>2022-04-05T02:44:50.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="v2ray-简介">V2Ray 简介</h1>
+<h2 id="v2ray-是什么">V2Ray 是什么？</h2>
+<p>下面是我直接从 <a href="https://www.v2ray.com/">V2Ray官网</a> 摘下来的一段介绍：</p>
+<blockquote>
+<p>Project V 是一个工具集合，它可以帮助你打造专属的基础通信网络。Project V 的核心工具称为 V2Ray，其主要负责网络协议和功能的实现，与其它 Project V 通信。V2Ray 可以单独运行，也可以和其它工具配合，以提供简便的操作流程。</p>
+</blockquote>
+<p>由于大家更加熟悉 Shadowsocks 和 VPN，所以很多人可能会想当然地将 V2Ray 看作一个特定的翻墙协议或用于实现该协议的翻墙软件。但正如上面所说，V2Ray 实际上是一个融合了各种翻墙协议的集成性软件，其中只有 VMess 协议是 V2Ray 社区原创的翻墙协议。</p>
+<p>那上面那段话的 <a href="https://github.com/v2ray">Project V</a> 是什么呢？V2Ray 最早就这一个名字，维护 V2Ray 的社区叫 <code>V2Ray 社区</code>，V2Ray社区发布的程序软件也都可以用 V2Ray 泛指。后来，V2Ray 规模越来越大，就成立一个 Project V 项目。现在，我们称呼维护 V2Ray 的社区为 <code>Project V 社区</code> 更合适，不过这个也不用分的很清。</p>
+<p>Project V 包含了与 V2Ray 有关的全部，除了 V2Ray 自己，所有相关的软件、工具、新协议都是 Project V 的一部分。这里的“相关软件”主要指：1、V2Ray 的一些辅助工具，比如用于生成证书和校验配置文件的工具。2、基于 V2Ray 开发的移植到其它平台（Windows、macOS、iOS 等等）的实现，特别是那些带图形界面的。</p>
+<p>目前，V2Ray 这个名字严格上只代指 <code>V2Ray 内核</code>。那么，这个内核又是指什么呢？很简单，就是你在 <a href="https://github.com/v2ray/v2ray-core/releases">GitHub</a> 上下载的那些玩意儿。这些是 V2Ray 的预编译版本，你也可以下载代码自己编译，也是 V2Ray 内核。</p>
+<p>Project V 社区在 GitHub 上非常贴心的准备了多个操作平台的预编译程序。不过这些都是命令行程序（要不然咋能叫 内核 呢），虽然可以直接使用，但用起来很不友好、很麻烦，更何况 V2Ray 的配置文件写起来特别烦，所以大家用的一般都是带图形界面的第三方 V2Ray 客户端。比如 macOS 平台的 <a href="https://github.com/Cenmrev/V2RayX">V2RayX</a>。V2RayX 完全是基于 V2Ray 内核来的。事实上，V2RayX 本身就是一个壳，帮助用户图形化地生成配置文件并运行 V2Ray 内核，当然 V2RayX 是有配置系统代理的功能的。</p>
+<h2 id="v2ray-支持的代理协议">V2Ray 支持的代理协议</h2>
+<p>截止到2018年12月，V2Ray支持以下协议：</p>
+<ul>
+<li>传统的代理协议：HTTP 和 SOCKS。</li>
+<li>MTProto：Telegram 的开发团队制作的一款协议，作为 Telegram 的专用代理协议。</li>
+<li>Shadowsocks：这个无需多言。但要注意的是，V2Ray 不支持 ShadowsocksR。</li>
+<li>VMess：V2Ray 独创的一款翻墙协议，据说比 Shadowsocks 更安全。有些机场声称支持 V2Ray，一般就是指支持 VMess。</li>
+</ul>
+<p>细心的朋友可能会发现一个问题，我上面“传统的代理协议”那一栏怎么只有 HTTP 和 SOCKS，没有 HTTPS 和 SOCKS over TLS。这两种协议虽然不常用但却很重要，V2Ray 既然是一个融合了各种翻墙协议的集成性软件，没理由不支持。毕竟，单纯的 HTTP 和 SOCKS 是没法用来翻墙的，只能作为本地代理用用，真要拿来翻墙，HTTPS 和 SOCKS over TLS 才行。</p>
+<p>莫急，上面这些代理协议是从应用层角度上讲的，V2Ray 强大的一点在于，它在传输层上也可以高度自定义。</p>
+<p>同样是截止到2018年12月，V2Ray 可选的传输层配置有：用于优化网络质量的 kcp、QUIC 和 <a href="https://zh.wikipedia.org/wiki/TCP%E5%BF%AB%E9%80%9F%E6%89%93%E5%BC%80">TCP Fast Open</a>；用于伪装的 WebSocket；HTTP/2 传输；以及 TLS 加密。</p>
+<p>不仅是 HTTP 和 SOCKS 可以在传输层配置 TLS 使其变成 HTTPS 和 SOCKS over TLS 协议，MTProto、Shadowsocks 和 VMess 也都可以通过传输层的配置包一层 TLS 在它们外面进行加密（并伪装成 TLS 流量）。HTTP 和 SOCKS 不必说，TLS 肯定是要的，VMess 裹 TLS 层也是常见的做法，但应该没人会在 Shadowsocks 外面再使用 TLS 加密。</p>
+<h2 id="v2ray-客户端推荐">V2Ray 客户端推荐</h2>
+<p>V2Ray 内核就是可以直接拿来用的，但用起来很麻烦，配置文件得自己写，系统代理得自己配，除了个别追求 V2Ray 功能极致的 Power User，应该很少有人拿 V2Ray 内核当客户端用，所以我们主要介绍带图形界面的 V2Ray 客户端。对了，特别说明，教程具有时效性，你看到这篇文章的时候，有些东西可能已经不太一样了。</p>
+<h2 id="windows-端">Windows 端</h2>
+<p><a href="https://www.v2rayfree.eu.org/post/V2RayN-tutorial/">V2RayN</a></p>
+<p>V2rayN客户端是一个基于V2ray 内核的windows客户端，它目前支持Xray内核，然后也可以手动更新核心和客户端的版本。下载即用，数据可视化（能看到你访问的网址）、上手也简单。推荐新手使用。使用教程 👉 <a href="https://www.v2rayfree.eu.org/post/v2rayN-tutorial/">https://www.v2rayfree.eu.org/post/v2rayN-tutorial/</a></p>
+<p><a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">Clash for Windows</a></p>
+<p>Clash for windows 简称：CFW 是Clash在windows图形化的分支，目前也支持Mac OS系统的版本，它更适合使用机场订阅链接，或者能通过Clash 配置文件范本添加节点的小伙伴使用，有一定的上手难度，但是其自动更换节点的功能及超牛X的分流规则，调教好了可以无视墙的存在。使用教程 👉 <a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/">https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/</a></p>
+<h2 id="android-端">Android 端</h2>
+<p><a href="https://www.v2rayfree.eu.org/post/v2rayNg-tutorial/">V2RayNG</a></p>
+<p>V2RayNG 是一个基于 V2Ray及Xray 内核的 Android客户端，对应windows端的v2rayN。</p>
+<p>详细使用教程：<a href="https://www.v2rayfree.eu.org/post/v2rayNg-tutorial/">https://www.v2rayfree.eu.org/post/v2rayNg-tutorial/</a></p>
+<p><a href="https://www.v2rayfree.eu.org/post/clash-for-andriod-tutorial/">Clash for Android</a></p>
+<p>clash Android客户端，对应windows端的Clash for windows。</p>
+<p>详细使用教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-andriod-tutoriall/">https://www.v2rayfree.eu.org/post/clash-for-andriod-tutorial/</a></p>
+<h2 id="macos-端">macOS 端</h2>
+<h3 id="v2rayx">V2RayX</h3>
+<p>没用过，就不赘述了。</p>
+<h3 id="v2rayu">V2rayU</h3>
+<p>除了 VMess，它还支持 Shadowsocks。</p>
+<h3 id="clashx"><a href="https://www.v2rayfree.eu.org/post/clash-for-mac-tutorial/">clashx</a></h3>
+<p>clash for Mac OS系统,，对应windows端的Clash for windows。</p>
+<p>详细使用教程：<a href="https://www.v2rayfree.eu.org/post/clash-for-mac-tutoriall/">https://www.v2rayfree.eu.org/post/clash-for-mac-tutorial/</a></p>
+<h2 id="ios-端">iOS 端</h2>
+<h3 id="shadowrocket-和-quantumult">Shadowrocket 和 Quantumult</h3>
+<p>不用我多介绍，大家应该都对这两款软件非常熟悉了。除了 Shadowsocks(R) 协议，它们也都支持 VMess 协议，所以也能算 V2Ray 客户端，但它们对 V2Ray 的支持都很有限。</p>
+<h3 id="kitsunebi">Kitsunebi</h3>
+<p>引用下 V2Ray 官网对它的介绍：</p>
+<blockquote>
+<p>Kitsunebi 是一个基于 V2Ray 核心的 iOS 应用。它可以创建基于 VMess 或者 Shadowsocks 的 VPN 连接。Kitsunebi 支持导入和导出与 V2Ray 兼容的 JSON 配置。</p>
+<p>由于使用 V2Ray 核心，Kitsunebi 几乎支持 V2Ray 的所有功能，比如 Mux 和 mKCP。</p>
+</blockquote>
+<p>Kitsunebi 和 Shadowrocket、Quantumult 一样都是收费软件。</p>
+<h2 id="总结">总结</h2>
+<p>V2Ray 是一款网络工具，它可以实现多种网络流量的接收、过滤、变换和转发，通过 V2Ray，你只要操纵一个几KB的文本文件，就可以随心所欲的让网络流量伪装成你希望的样子，按照你喜欢的规则，流往你指定的地方，这才是 V2Ray 的价值所在。</p>
 ]]></content>
     </entry>
 </feed>
